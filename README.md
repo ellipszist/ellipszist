@@ -9,6 +9,7 @@
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     <br><br>:coffee: สนับสนุนค่ากาแฟให้น้องๆ ทีมแปลได้ที่ :point_right: @ <a href="https://www.buymeacoffee.com/ellipszist">buy me a coffee</a>
     <br>โปรเจคอื่นๆ สามารถโดเนทส่วนตัวได้ที่ <a href="https://www.paypal.me/ellipszist">https://www.paypal.me/ellipszist</a>
+    <br>ติดต่องานทำเว็บผ่าน LINE ID: <a href="https://line.me/ti/p/4i7y9ifHcO">ellipszist</a>
   </samp>
 </p>
 
